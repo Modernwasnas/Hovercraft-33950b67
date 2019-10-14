@@ -1,0 +1,41 @@
+td {
+	border-style:solid;
+	padding:1em; 
+}
+
+th{
+	background-color:lightgray;
+	padding:1em;
+}
+
+.t1 {
+	background-color:lightgray;
+}
+
+.t2 {
+	background-color:darkgray;
+}
+
+.h1 {
+	background-color:orange;
+}
+
+.purple {
+	background-color:magenta;
+}
+
+.blue {
+	background-color:lightblue;
+}
+
+.yellow {
+	background-color:lightyellow;
+}
+
+tbody {
+	cursor: pointer;
+}
+
+a:hover {
+    background: yellow;
+}
