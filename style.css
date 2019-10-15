@@ -33,7 +33,7 @@ th{
 }
 
 tbody {
-	cursor: pointer;
+	cursor: grab;
 }
 
 a:hover {
